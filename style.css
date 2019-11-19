@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+}
+.slots {
+    width: 100%;
+    height: 100px;
+}
+#time {
+    width: 10%;
+    text-align: center;
+    float: left;
+}
+.input {
+    float: left;
+    width: 70%;
+    height: 100px;
+}
+#saveBox {
+
+    width: 20%;
+}
