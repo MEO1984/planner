@@ -7,3 +7,5 @@ This work day scheduler was created using HTML, CSS, and Jquery so that users ca
 
 # How it works
 This web application creates HTML dynamically by utilizing Jquery. When the user clicks inside the middle column, they access a textarea which allows them to type in their notes and appointments. By clicking on the save button in the last column, the user stores their notes in local storage and the note is still available upon refreshing the page. To delete a note, the user can simply delete it in the text area, type something new, and save the new item by clicking the save button again. 
+
+![planner](https://github.com/MEO1984/planner/blob/master/Example.gif)
